@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color:#F6F6F6;
+    font-family: halvetica;
+    height: 350px;
+    padding: 30px;
+    margin: auto;
+}
+
+.rounded-image{
+    border-radius: 50%;
+    width: 243px;
+    height: 243px;
+}
+.header .nama{
+    margin: auto;
+}
+.biodata{
+    background-color:#D6E4F0;
+    font-family: halvetica;
+    margin: auto;
+    padding: 30px;
+}
+
+.biodata h4{
+    font-weight: bold;
+    color:#161D6F;
+}
+.biodata .contact{
+    margin: auto;
+    align-self: center;
+}
+
+.project{
+    background-color:#F6F6F6;
+    text-align: center;
+    font-family: halvetica;
+    padding: 30px;    
+}
+
+.project h4{
+    font-weight: bold;
+    color: #161D6F;
+}
+
+footer{
+    text-align: center;
+    background-color: #161D6F;
+    color: #FFFFFF;
+    font-family: halvetica;
+    padding: 30px;
+}
+
+.medsos a{
+    color: #FFFFFF;
+}
+
+.medsos ul li{
+    list-style: none;
+    display: inline-block;
+    align-items: center 
+}
+.table{
+    width: 800px;
+}
+
+td img{
+    float: right;
+    border-radius: 10%;
+}
+.text{
+    text-align: left;
+}
+
+.text .app{
+    color: grey;
+}
+
+
